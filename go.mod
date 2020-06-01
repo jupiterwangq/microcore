@@ -1,4 +1,4 @@
-module microcore
+module github.com/jupiterwangq/microcore
 
 go 1.14
 

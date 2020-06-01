@@ -3,10 +3,10 @@ package registry
 import (
 	"crypto/tls"
 	"crypto/x509"
+	"github.com/jupiterwangq/microcore/registry/etcd"
 	"github.com/micro/go-micro/v2/registry"
 	"github.com/prometheus/common/log"
 	"io/ioutil"
-	"microcore/registry/etcd"
 	"os"
 )
 

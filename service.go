@@ -1,8 +1,8 @@
 package microcore
 
 import (
+	reg "github.com/jupiterwangq/microcore/registry"
 	"github.com/micro/go-micro/v2"
-	reg "microcore/registry"
 	"reflect"
 )
 
