@@ -1,4 +1,4 @@
-module framework
+module microcore
 
 go 1.14
 
